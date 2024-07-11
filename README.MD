@@ -7,13 +7,13 @@ Runing the project steps:
   <li>Run the following command to compile the project
     <ul>
       <li>./mvnw clean install # for mac / Linux </li>
-      <li>./mvnw.cmd clean install # for windows </li>
+      <li>mvnw.cmd clean install # for windows </li>
     </ul>
   </li>
   <li>Run the following command to run Spring boot application
     <ul>
       <li>./mvnw spring-boot:run # for mac / Linux </li>
-      <li>./mvnw.cmd spring-boot:run # for windows </li>
+      <li>mvnw.cmd spring-boot:run # for windows </li>
     </ul>
   </li>
 </ol>
